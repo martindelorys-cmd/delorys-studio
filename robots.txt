@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://delorys-studio.vercel.app/sitemap.xml
+Sitemap: https://www.delorysstudio.fr/sitemap.xml
